@@ -14,11 +14,11 @@
 
 ## 🚀 **About Me**
 
-- 🎓 **B.Tech Computer Science (AI&ML)** at GVPCE with **9.62 CGPA** (2022-Present)
-- 🔬 **Research Intern** at **NIT Karnataka Surathkal** - Game Theory in Mobile Edge Computing
-- 👨‍💼 **Team Lead** at **Brainmage.ai** - Working on Telugu LLM and AI Text Classification
-- 🏆 **AI Club President** - Leading AI initiatives and community building
-- 📊 **Machine Learning Intern** at **Infosys Springboard** - YOLO Object Recognition Systems
+- 🎓 **B.Tech Computer Science (AI&ML)** at GVPCE with **9.62 CGPA** (2022-Present)  
+- 🔬 **Research Intern** at **NIT Karnataka Surathkal** - Game Theory in Mobile Edge Computing  
+- 👨‍💼 **Team Lead** at **Brainmage.ai** - Working on Telugu LLM and AI Text Classification  
+- 🏆 **AI Club President** - Leading AI initiatives and community building  
+- 📊 **Machine Learning Intern** at **Infosys Springboard** - YOLO Object Recognition Systems  
 
 ---
 
@@ -53,83 +53,62 @@
 
 ## 🌟 **Featured Projects**
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 **Regression.AI**
-*Automated ML Platform*
-
+### 🤖 Regression.AI  
+*Automated ML Platform*  
 **Tech Stack:** Python, Flask, Scikit-learn  
-**Features:**
-- Multi-model training & comparison
-- Ensemble learning implementation
-- Admin dashboard with analytics
-- **Status:** 🚀 Active Development
+✅ Multi-model training & comparison  
+✅ Ensemble learning implementation  
+✅ Admin dashboard with analytics  
 
-</td>
-<td width="50%">
+---
 
-### 🎓 **Learning Management System**
-*Full-Stack MERN Application*
-
+### 🎓 Learning Management System  
+*Full-Stack MERN Application*  
 **Tech Stack:** MongoDB, Express.js, React, Node.js  
-**Features:**
-- Course management system
-- Real-time progress tracking
-- Role-based access control
-- **Status:** ✅ Completed
+✅ Course management system  
+✅ Real-time progress tracking  
+✅ Role-based access control  
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### 🛡️ **Anti-Spoof Detection System**
-*Real-time Face Authentication*
-
+### 🛡️ Anti-Spoof Detection System  
+*Real-time Face Authentication*  
 **Tech Stack:** Python, TensorFlow, OpenCV, Flask  
-**Features:**
-- MobileNetV2-based lightweight model
-- Real-time webcam integration
-- Secure authentication pipeline
-- **Status:** ✅ Deployed
+✅ MobileNetV2-based lightweight model  
+✅ Real-time webcam integration  
+✅ Secure authentication pipeline  
 
-</td>
-<td width="50%">
+---
 
-### 👁️ **YOLO Object Recognition**
-*Advanced Computer Vision System*
-
+### 👁️ YOLO Object Recognition  
+*Advanced Computer Vision System*  
 **Tech Stack:** Python, YOLO, COCO Dataset  
-**Features:**
-- Real-time object detection
-- Custom dataset training
-- Multi-domain applications
-- **Status:** ✅ Production Ready
+✅ Real-time object detection  
+✅ Custom dataset training  
+✅ Multi-domain applications  
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🏢 **Professional Experience**
 
-### 🔬 **Research Intern** | NIT Karnataka Surathkal *(May 2025 - June 2025)*
-- Conducted comprehensive research on Game Theory applications in Mobile Edge Computing
-- Analyzed congestion games and mathematical modeling for resource optimization
-- Developed theoretical solutions for network traffic management
+### 🔬 **Research Intern** | NIT Karnataka Surathkal *(May 2025 - June 2025)*  
+- Conducted comprehensive research on Game Theory applications in Mobile Edge Computing  
+- Analyzed congestion games and mathematical modeling for resource optimization  
+- Developed theoretical solutions for network traffic management  
 
-### 👨‍💼 **Team Lead** | Brainmage.ai *(December 2024 - March 2025)*
-- Leading development of Telugu Large Language Model (LLM)
-- Working on web scraping and data generation for AI model training
-- Developing AI Text Classifier using advanced NLP techniques
+### 👨‍💼 **Team Lead** | Brainmage.ai *(December 2024 - March 2025)*  
+- Leading development of Telugu Large Language Model (LLM)  
+- Working on web scraping and data generation for AI model training  
+- Developing AI Text Classifier using advanced NLP techniques  
 
-### 💻 **ML Intern** | Infosys Springboard *(October 2024 - November 2024)*
-- Developed YOLO-based Object Recognition System with automatic annotation
-- Implemented real-time detection from video, images, and live camera feeds
-- Customized models for security surveillance and manufacturing applications
+### 💻 **ML Intern** | Infosys Springboard *(October 2024 - November 2024)*  
+- Developed YOLO-based Object Recognition System with automatic annotation  
+- Implemented real-time detection from video, images, and live camera feeds  
+- Customized models for security surveillance and manufacturing applications  
 
 ---
 
@@ -164,9 +143,9 @@
 
 ## 🎯 **Leadership & Community**
 
-- 🏅 **President** - AI Club (October 2024 - Present)
-- 🔄 **Active Member** - Rotary Club RACGVP (September 2023 - November 2024)
-- 💻 **Member** - Computer Society of India (February 2023 - Present)
+- 🏅 **President** - AI Club (October 2024 - Present)  
+- 🔄 **Active Member** - Rotary Club RACGVP (September 2023 - November 2024)  
+- 💻 **Member** - Computer Society of India (February 2023 - Present)  
 
 ---
 
