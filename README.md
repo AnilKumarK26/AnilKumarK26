@@ -37,7 +37,7 @@
 
 ### **🐍 Programming Languages**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,c&theme=dark" height="50"/>
 </div>
 
 ### **🤖 AI/ML Frameworks**
@@ -59,7 +59,7 @@
 
 ### **☁️ Cloud & DevOps**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" height="50"/>
 </div>
 
 ### **🛠️ Development Tools**
